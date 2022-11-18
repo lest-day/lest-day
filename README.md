@@ -6,4 +6,3 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lest-day&count_private=true&theme=onedark&hide_border=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=compact&theme=onedark&hide_border=true&hide=css,html&langs_count=5" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=lest-day&color=green" />
