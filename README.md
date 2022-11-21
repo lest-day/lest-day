@@ -10,5 +10,3 @@
     <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lest-day&count_private=true&theme=onedark&hide_border=true&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=compact&theme=onedark&hide_border=true&hide=css,html&langs_count=5" />
   </a><br> 
-  
-  <br><img src="https://github-readme-stats.vercel.app/api?username=lest-day&ount_private=true&show_icons=true" height="180px" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=compact&hide=html,css&langs_count=10" height="180px" />
