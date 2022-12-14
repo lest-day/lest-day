@@ -8,5 +8,6 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lest-day&count_private=true&theme=onedark&hide_border=true&locale=cn&count_private=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=compact&theme=onedark&hide_border=true&locale=cn&hide=css,html&langs_count=5" />
-  </a><br> 
+    <br>
+    <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=compact&theme=onedark&hide_border=true&locale=cn&hide=css,html&langs_count=5" />
+  </a>
