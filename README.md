@@ -1,16 +1,12 @@
-### Hi there 👋
+## 👀Hi,I'm lest-day!
+A student, a Wikidot user, and many Wiki staff or supporters. Good at web front end, learning others.
 
-<!--
-**lest-day/lest-day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 😄 **Gender**: He/His or They/Them.
+* 🇨🇳 **Form**: Hubei,**The People's Republic Of China.**
+* 💖 **Likes**: To make cool things.
+* 🌐 **Language**: zh-CN, zh-Hans and zh-Hant.
+  
+## 🏆Github Profile Trophy
+[![My Stats](https://github-readme-stats.vercel.app/api?username=lest-day&count_private=true&locale=en&theme=dracula&line_height=20)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=compact&count_private=true&locale=en&theme=dracula)]()
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lest-day&repo=lest-day.github.io&count_private=true&locale=en&theme=dracula)](https://github.com/lest-day/lest-day.github.io/)
