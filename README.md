@@ -12,7 +12,11 @@
       <li>💖 <strong>Likes</strong>: To make cool things.</li>
       <li>🌐 <strong>Language</strong>: zh-CN, zh-Hans and zh-Hant.</li>
     </ul>
-    <p>Website: <a href="https://lestday233.eu.org/"><kbd>lestday233.eu.org</kbd></a> | Blog: <a href="https://blog.lestday233.eu.org/"><kbd>blog.lestday233.eu.org</kbd></a> | Email: <a href="mailto:email@lestday233.eu.org"><kbd>email@lestday233.eu.org</kbd></a></p>
+    <ul>
+     <li>Website: <a href="https://lestday233.eu.org/"><kbd>lestday233.eu.org</kbd></a></li>
+     <li>Blog: <a href="https://blog.lestday233.eu.org/"><kbd>blog.lestday233.eu.org</kbd></a></li>
+     <li>Email: <a href="mailto:email@lestday233.eu.org"><kbd>email@lestday233.eu.org</kbd></a></li>
+    </ul>
     <p align="center">Inclusiveness and openness must be what the Internet brings to real life.</p>
   </td>
 <tbody>
