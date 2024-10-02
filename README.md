@@ -18,8 +18,8 @@
   <tr>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lest-day&theme=transparent&bg_color=00000000">
-        <img height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lest-day&theme=transparent&bg_color=00000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lest-day&theme=transparent">
+        <img height="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lest-day&theme=transparent" />
       </picture>
     </a></td>
     <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
