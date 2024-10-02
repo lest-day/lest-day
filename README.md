@@ -7,6 +7,7 @@
       <li>💖 <strong>Likes</strong>: To make cool things.</li>
       <li>🌐 <strong>Language</strong>: zh-CN, zh-Hans and zh-Hant.</li>
     </ul>
+    <p>You can know me and my updates and contact me through the following ways.</p>
     <ul>
      <li>Website: <a href="https://lestday233.eu.org/"><kbd>lestday233.eu.org</kbd></a></li>
      <li>Blog: <a href="https://blog.lestday233.eu.org/"><kbd>blog.lestday233.eu.org</kbd></a></li>
