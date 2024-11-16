@@ -40,8 +40,8 @@
     </a></td>
     <td colspan="4"><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=github-dark-dimmed&bg_color=00000000">
-        <img height="100%" src="https://github-contributor-stats.vercel.app/api?username=lest-day&limit=4&theme=transparent&combine_all_yearly_contributions=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=github-dark-dimmed&bg_color=00000000&hide_border=true">
+        <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=minimalbg_color=00000000&hide_border=true" />
       </picture>
     </a></td>
   </tr>
