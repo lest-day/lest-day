@@ -17,7 +17,7 @@
   </td>
 <tbody>
   <tr>
-    <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
+    <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lest-day&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
         <img height="100%" src="https://github-readme-stats.vercel.app/api?username=lest-day&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
@@ -28,20 +28,20 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lest-day&mode=weekly&theme=dark&hide_border=true&background=00000000">
         <img height="100%" src="https://streak-stats.demolab.com/?user=lest-day&mode=weekly&hide_border=true&background=00000000" />
       </picture>
+    <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=donut&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=donut&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
+      </picture>
+    </a></td>
     </a></td>
   </tr>
 </tbody><tbody>
   <tr>
-    <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
+    <td colspan="6"><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=compact&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=compact&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
-      </picture>
-    </a></td>
-    <td colspan="4"><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=github-dark-dimmed&bg_color=00000000&hide_border=true">
-        <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=minimalbg_color=00000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=github-dark-dimmed&bg_color=00000000&hide_border=true&height=325">
+        <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=minimalbg_color=00000000&hide_border=true&height=325" />
       </picture>
     </a></td>
   </tr>
