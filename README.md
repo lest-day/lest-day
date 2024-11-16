@@ -15,7 +15,7 @@
     </ul>
     <p align="center">Inclusiveness and openness must be what the Internet brings to real life.</p>
     <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=Lest-day&label=Profile%20Views&color=12&icon=1&pretty=true" />
+      <img src="https://visitcount.itsvg.in/api?id=lest-day&label=Profile%20Views&color=12&icon=1&pretty=true" />
     </a>
   </td>
 <tbody>
