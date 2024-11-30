@@ -13,11 +13,14 @@
      <li>Blog: <a href="https://blog.lestday233.eu.org/"><kbd>blog.lestday233.eu.org</kbd></a></li>
      <li>Email: <a href="mailto:email@lestday233.eu.org"><kbd>email@lestday233.eu.org</kbd></a></li>
     </ul>
+    <a href="https://visitcount.itsvg.in">
+      <img src="https://visitcount.itsvg.in/api?id=lest-day&label=Profile%20Views&color=12&icon=1&pretty=true" />
+    </a>
     <p align="center">Inclusiveness and openness must be what the Internet brings to real life.</p>
   </td>
 <tbody>
   <tr>
-    <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
+    <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lest-day&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
         <img height="100%" src="https://github-readme-stats.vercel.app/api?username=lest-day&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
@@ -28,26 +31,20 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lest-day&mode=weekly&theme=dark&hide_border=true&background=00000000">
         <img height="100%" src="https://streak-stats.demolab.com/?user=lest-day&mode=weekly&hide_border=true&background=00000000" />
       </picture>
+    <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=donut&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
+        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=donut&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
+      </picture>
+    </a></td>
     </a></td>
   </tr>
 </tbody><tbody>
   <tr>
-    <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <td colspan="6"><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards2.vercel.app/api/cards/repos-per-language?username=lest-day&theme=nord_dark&bg_color=0000&border_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards2.vercel.app/api/cards/repos-per-language?username=lest-day&theme=nord_bright&bg_color=0000&border_color=0000" />
-      </picture>
-    </a></td>
-    <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards2.vercel.app/api/cards/most-commit-language?username=lest-day&theme=nord_dark&bg_color=0000&border_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards2.vercel.app/api/cards/most-commit-language?username=lest-day&theme=nord_bright&bg_color=0000&border_color=0000" />
-      </picture>
-    </a></td>
-    <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards2.vercel.app/api/cards/productive-time?username=lest-day&utcOffset=8&theme=nord_dark&bg_color=0000&border_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards2.vercel.app/api/cards/productive-time?username=lest-day&utcOffset=8&theme=nord_bright&bg_color=0000&border_color=0000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=github-dark-dimmed&bg_color=00000000&hide_border=true&height=325">
+        <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=minimalbg_color=00000000&hide_border=true&height=325" />
       </picture>
     </a></td>
   </tr>
