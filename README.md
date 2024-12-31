@@ -13,9 +13,6 @@
      <li>Blog: <a href="https://blog.lestday233.eu.org/"><kbd>blog.lestday233.eu.org</kbd></a></li>
      <li>Email: <a href="mailto:email@lestday233.eu.org"><kbd>email@lestday233.eu.org</kbd></a></li>
     </ul>
-    <a href="https://visitcount.itsvg.in">
-      <img src="https://visitcount.itsvg.in/api?id=lest-day&label=Profile%20Views&color=12&icon=1&pretty=true" />
-    </a>
     <p align="center">Inclusiveness and openness must be what the Internet brings to real life.</p>
   </td>
 <tbody>
