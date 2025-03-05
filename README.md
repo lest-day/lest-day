@@ -19,6 +19,11 @@
   <td colspan="6">
     <h2>📕 Latest Blog Post</h2>
 <!-- BLOG-POST-LIST:START -->
+- [多面性和散视角](https://blog.lestday233.eu.org/article/multifacets-and-diverse-perspectives)
+- [环境因素最大化](https://blog.lestday233.eu.org/article/maximize-environmental-factors)
+- [以成员为中心](https://blog.lestday233.eu.org/article/member-is-master)
+- [矛盾与解决问题](https://blog.lestday233.eu.org/article/contradiction-and-problem-solving)
+- [Wikidot JS代码](https://blog.lestday233.eu.org/article/wikidot-js)
 <!-- BLOG-POST-LIST:END -->
   </td>
 </tbody>
