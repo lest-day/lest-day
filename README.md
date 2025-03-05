@@ -1,4 +1,4 @@
-<table align="center">
+<table>
   <td colspan="6">
     <h2>👀Hi,I'm lest-day!</h2>
     <p>A student, a Wikidot user, and many Wiki staff or supporters. Good at web front end, learning others.</p>
