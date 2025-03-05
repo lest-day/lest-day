@@ -25,8 +25,8 @@
     </a></td>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lest-day&mode=weekly&theme=dark&hide_border=true&background=00000000">
-        <img height="100%" src="https://streak-stats.demolab.com/?user=lest-day&mode=weekly&hide_border=true&background=00000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=lest-day&mode=weekly&theme=dark&hide_border=true&background=00000000">
+        <img height="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=lest-day&mode=weekly&hide_border=true&background=00000000" />
       </picture>
     <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
