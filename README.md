@@ -1,6 +1,6 @@
 <table>
   <td colspan="6">
-    <h2>👀Hi,I'm lest-day!</h2>
+    <h2>👀 Hi,I'm lest-day!</h2>
     <p>A student, a Wikidot user, and many Wiki staff or supporters. Good at web front end, learning others.</p>
     <ul>
       <li>😄 <strong>Gender</strong>: He/His or They/Them.</li>
@@ -14,6 +14,11 @@
      <li>Email: <a href="mailto:email@lestday233.eu.org"><kbd>email@lestday233.eu.org</kbd></a></li>
     </ul>
     <p align="center">Inclusiveness and openness must be what the Internet brings to real life.</p>
+  </td>
+  <td colspan="6">
+    <h2>📕 Latest Blog Post</h2>
+      <!-- BLOG-POST-LIST:START -->
+      <!-- BLOG-POST-LIST:END -->
   </td>
 <tbody>
   <tr>
@@ -54,4 +59,5 @@
       </picture>
     </a></td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
