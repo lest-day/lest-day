@@ -15,11 +15,13 @@
     </ul>
     <p align="center">Inclusiveness and openness must be what the Internet brings to real life.</p>
   </td>
+<tbody>
   <td colspan="6">
     <h2>📕 Latest Blog Post</h2>
       <!-- BLOG-POST-LIST:START -->
       <!-- BLOG-POST-LIST:END -->
   </td>
+</tbody>
 <tbody>
   <tr>
     <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
