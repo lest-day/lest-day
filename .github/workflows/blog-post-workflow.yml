@@ -17,4 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.lestday233.eu.org/rss/feed.xml"
-          template: "<li><a href=$url>$title</a></li>"
+          template: "<li><a href=$url>$title</a></li>$newline"
