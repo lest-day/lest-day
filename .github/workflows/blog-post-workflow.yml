@@ -17,7 +17,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.lestday233.eu.org/rss/feed.xml"
-          template: "<li><a href=$url>$title</a></li>$newline"
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+          template: "<li><a href=$url>$title</a></li>"
+          user_agent: "rss-blogpost-workflow"
+          tag_post_pre_newline: true
           retry_count: "3"
           retry_wait_time: "3"
