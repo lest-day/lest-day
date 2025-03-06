@@ -19,11 +19,8 @@
   <td colspan="6">
     <h2>📕 Latest Blog Post</h2>
     <ul>
-<!-- BLOG-POST-LIST:START --><li><a href=https://blog.lestday233.eu.org/article/multifacets-and-diverse-perspectives>多面性和散视角</a></li>
-<li><a href=https://blog.lestday233.eu.org/article/maximize-environmental-factors>环境因素最大化</a></li>
-<li><a href=https://blog.lestday233.eu.org/article/member-is-master>以成员为中心</a></li>
-<li><a href=https://blog.lestday233.eu.org/article/contradiction-and-problem-solving>矛盾与解决问题</a></li>
-<li><a href=https://blog.lestday233.eu.org/article/wikidot-js>Wikidot JS代码</a></li>
+<!-- BLOG-POST-LIST:START -->
+<li><a href=https://blog.lestday233.eu.org/article/multifacets-and-diverse-perspectives>多面性和散视角</a></li><li><a href=https://blog.lestday233.eu.org/article/maximize-environmental-factors>环境因素最大化</a></li><li><a href=https://blog.lestday233.eu.org/article/member-is-master>以成员为中心</a></li><li><a href=https://blog.lestday233.eu.org/article/contradiction-and-problem-solving>矛盾与解决问题</a></li><li><a href=https://blog.lestday233.eu.org/article/wikidot-js>Wikidot JS代码</a></li>
 <!-- BLOG-POST-LIST:END -->
     </ul>
   </td>
