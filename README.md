@@ -20,7 +20,7 @@
     <h2>📕 Latest Blog Post</h2>
     <ul>
 <!-- BLOG-POST-LIST:START -->
-<li><a href=https://blog.lestday233.eu.org/article/multifacets-and-diverse-perspectives>多面性和散视角</a></li><li><a href=https://blog.lestday233.eu.org/article/maximize-environmental-factors>环境因素最大化</a></li><li><a href=https://blog.lestday233.eu.org/article/member-is-master>以成员为中心</a></li><li><a href=https://blog.lestday233.eu.org/article/the-five-most-common-aspects-of-wikidot>Wikidot网站最常见的五个方面</a></li><li><a href=https://blog.lestday233.eu.org/article/wikidot-js>Wikidot JS代码</a></li>
+<li><a href=https://blog.lestday233.eu.org/article/the-root-of-the-problem>问根论</a></li><li><a href=https://blog.lestday233.eu.org/article/things-stay-away>事物远离论</a></li><li><a href=https://blog.lestday233.eu.org/article/contradiction-and-problem-solving>矛盾与解决问题</a></li><li><a href=https://blog.lestday233.eu.org/article/happybirthday2024>愿你像磐石一样坚强</a></li><li><a href=https://blog.lestday233.eu.org/article/wikidot-js>Wikidot JS代码</a></li>
 <!-- BLOG-POST-LIST:END -->
     </ul>
   </td>
