@@ -5,7 +5,7 @@
     <ul>
       <li>😄 <strong>Gender</strong>: He/His or They/Them.</li>
       <li>💖 <strong>Likes</strong>: To make cool things.</li>
-      <li>🌐 <strong>Language</strong>: zh-CN, zh-Hans and zh-Hant.</li>
+      <li>🌐 <strong>Language</strong>: zh-CN, zh-TW and English.</li>
     </ul>
     <p>You can know me and my updates and contact me through the following ways.</p>
     <ul>
