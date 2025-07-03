@@ -20,7 +20,7 @@
     <h2>📕 Latest Blog Post</h2>
     <ul>
 <!-- BLOG-POST-LIST:START -->
-<li><a href=https://blog.lestday233.eu.org/article/outline-of-the-foundation-of-the-deep-forest-club>深林文学部基础构建大纲</a></li><li><a href=https://blog.lestday233.eu.org/article/promote-justice-in-decision-making>促进决策正义</a></li><li><a href=https://blog.lestday233.eu.org/article/happybirthday2025>年亦未远，人易行远</a></li><li><a href=https://blog.lestday233.eu.org/article/my-buddha-and-taoism-lessons>个人佛道功课</a></li><li><a href=https://blog.lestday233.eu.org/article/contradiction-and-problem-solving>矛盾与解决问题</a></li>
+<li><a href=https://blog.lestday233.eu.org/article/outline-of-the-foundation-of-dfc>深林文学部基础构建大纲</a></li><li><a href=https://blog.lestday233.eu.org/article/promote-justice-in-decision-making>促进决策正义</a></li><li><a href=https://blog.lestday233.eu.org/article/epistemic-referentiality>认识参照论</a></li><li><a href=https://blog.lestday233.eu.org/article/blog-notionnext>使用NotionNext搭建博客</a></li><li><a href=https://blog.lestday233.eu.org/article/my-buddha-and-taoism-lessons>个人佛道功课</a></li>
 <!-- BLOG-POST-LIST:END -->
     </ul>
   </td>
