@@ -27,10 +27,10 @@
 </tbody>
 <tbody>
   <tr>
-    <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
+    <td colspan="2"><a href="https://github.com/stats-organization/github-stats-extended">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lest-day&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
-        <img height="100%" src="https://github-readme-stats.vercel.app/api?username=lest-day&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lest-day&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
+        <img height="100%" src="https://github-stats-extended.vercel.app/api?username=lest-day&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
       </picture>
     </a></td>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
@@ -38,10 +38,10 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=lest-day&mode=weekly&theme=dark&hide_border=true&background=00000000">
         <img height="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=lest-day&mode=weekly&hide_border=true&background=00000000" />
       </picture>
-    <td colspan="2"><a href="https://github.com/anuraghazra/github-readme-stats">
+    <td colspan="2"><a href="https://github.com/stats-organization/github-stats-extended">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=donut&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
-        <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lest-day&layout=donut&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lest-day&layout=donut&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
+        <img height="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lest-day&layout=donut&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
       </picture>
     </a></td>
     </a></td>
@@ -57,10 +57,10 @@
   </tr>
 </tbody><tbody>
   <tr>
-    <td colspan="6"><a href="https://github.com/ryo-ma/github-profile-trophy">
+    <td colspan="6"><a href="https://github.com/om3ga6400/github-profile-trophy">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=lest-day&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&margin-w=15">
-        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=lest-day&no-bg=true&no-frame=true&row=1&column=6&margin-w=15" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-om3ga6400.vercel.app/?username=lest-day&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&margin-w=15">
+        <img width="100%" src="https://github-profile-trophy-om3ga6400.vercel.app/?username=lest-day&no-bg=true&no-frame=true&row=1&column=6&margin-w=15" />
       </picture>
     </a></td>
   </tr>
