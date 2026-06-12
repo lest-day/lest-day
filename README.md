@@ -51,7 +51,7 @@
     <td colspan="6"><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=github-dark-dimmed&bg_color=00000000&hide_border=true&height=325">
-        <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=minimalbg_color=00000000&hide_border=true&height=325" />
+        <img height="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lest-day&theme=minimal&bg_color=00000000&hide_border=true&height=325" />
       </picture>
     </a></td>
   </tr>
